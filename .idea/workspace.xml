@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a72ac66d-3509-46c9-8ac0-3f10edf4d8d6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="a72ac66d-3509-46c9-8ac0-3f10edf4d8d6" name="Changes" comment="Primeiro Commit contendo as alterações de variáveis de ambiente, Timezone, Idioma." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +58,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669764434824</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primeiro Commit contendo as alterações de variáveis de ambiente, Timezone, Idioma.">
+      <created>1670457658091</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670457658091</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,5 +78,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro Commit contendo as alterações de variáveis de ambiente, Timezone, Idioma." />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro Commit contendo as alterações de variáveis de ambiente, Timezone, Idioma." />
   </component>
 </project>
